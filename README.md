@@ -11,11 +11,12 @@ Feel free to explore
 
 ## Table Structure
 ## Table authors
-
+''' sql
 CREATE TABLE Authors (
     AuthorID INT PRIMARY KEY,
     Name VARCHAR(100)
 );
+'''
 
 ## Table books
 
